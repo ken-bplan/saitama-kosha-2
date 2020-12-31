@@ -1,0 +1,14 @@
+{
+    "Proposals":{
+        "companyid": "string",
+            "id":"string",
+            "titel":"string",
+            "details":"string",
+            "startdate":"date",
+            "enddate":"date",
+            "viewcount": "int",
+            "viewcountnew":"int",
+            "inquirycount":"int",
+            "inquirycountnew": "int"
+    }
+}
