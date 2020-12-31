@@ -1,0 +1,20 @@
+{
+    "Proposals":{
+        "company-id": "string",
+        "proposals": {
+            "id":"string",
+            "titel":"string",
+            "details":"string",
+            "keywords":"Keywords[]",
+            "start-date":"date",
+            "end-date":"date",
+            "view-count": "int",
+            "view-count-new":"int",
+            "inquiry-count":"int",
+            "inquiry-count-new": "int"
+        }
+    },
+    "Keywords" :{
+        "keyword":"string"
+    }
+}
